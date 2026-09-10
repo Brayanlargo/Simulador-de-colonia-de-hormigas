@@ -1,1 +1,0 @@
-# Simulador-de-colonia-de-hormigas
